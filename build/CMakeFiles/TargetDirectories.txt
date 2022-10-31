@@ -1,0 +1,5 @@
+F:/HITSZ/C++/shiyan3/shiyan3project/build/CMakeFiles/juzhen.dir
+F:/HITSZ/C++/shiyan3/shiyan3project/build/CMakeFiles/package.dir
+F:/HITSZ/C++/shiyan3/shiyan3project/build/CMakeFiles/package_source.dir
+F:/HITSZ/C++/shiyan3/shiyan3project/build/CMakeFiles/edit_cache.dir
+F:/HITSZ/C++/shiyan3/shiyan3project/build/CMakeFiles/rebuild_cache.dir
